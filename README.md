@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="assets/images/logo faculdade.png" alt="Logo da Faculdade Univértix">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=474A8A&text=Web%20II&fontColor=FFFFFF&section=header&fontSize=50&animation=scaleIn&reversal=false" width=100%> 
 
 # 🧑🏻‍💻 Programação Web II
 
@@ -18,3 +16,5 @@ Este repositório tem como finalidade:
 O objetivo deste repositório é centralizar os conteúdos produzidos ao longo do semestre, facilitar o controle de versões, além de documentar a evolução do aprendizado na disciplina de Programação Web II.
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=474A8A&fontColor=FFFFFF&section=footer&fontSize=50&animation=scaleIn&reversal=false" width=100%>
